@@ -19,7 +19,7 @@ class PollEditCog(commands.Cog):
         self.bot = bot
 
     async def reloadPoll(id: str):
-
+        pass
 
     async def getPollList(
         self,
