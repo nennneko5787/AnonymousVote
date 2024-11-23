@@ -2,3 +2,4 @@ discord.py
 asyncpg
 fastapi[all]
 python-dotenv
+emoji
